@@ -16,7 +16,7 @@ Username Dicoding: [andrewbj](https://www.dicoding.com/users/andrewbj)
 | Opsi Deployment | Proyek *machine learning* Stroke Disease Detection ini telah di-*deploy* menggunakan [Railway App](https://railway.app) sebagai salah satu Platform as a Service (PaaS) yang menyediakan layanan untuk deploying proyek secara gratis. |
 | Web App | Model serving dapat diakses melalui [https://stroke-detection.up.railway.app/v1/models/stroke-detection-model/metadata](https://stroke-detection.up.railway.app/v1/models/stroke-detection-model/metadata). |
 | Monitoring | Proses *monitoring* pada proyek *machine learning* ini dapat dilakukan menggunakan layanan *open-source*, yaitu [Prometheus](https://prometheus.io). Salah satu proses *monitoring* Prometheus adalah melihat perubahan jumlah permintaan yang dilakukan dengan cara menampilkan status dan informasi *request* beserta jamnya (`:tensorflow:serving:request_count`). |
-| Kesimpulan |  |
+| Kesimpulan | Model yang telah berhasil dibangun telah diuji coba dapat bekerja dan dapat melakukan klasifikasi apakah seseorang berpotensi untuk terkena penyakit stroke atau tidak dengan tepat. |
 
 ## Referensi:
 
