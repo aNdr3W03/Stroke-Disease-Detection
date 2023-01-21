@@ -6,16 +6,16 @@ Username Dicoding: [andrewbj](https://www.dicoding.com/users/andrewbj)
 
 |     | Deskripsi |
 | --- | --------- |
-| Dataset | [nama dataset](https://www.kaggle.com/) |
-| Masalah | Deskripsi masalah yang di angkat |
-| Solusi Machine Learning | Deskripsi solusi machine learning yang akan dibuat |
-| Metode Pengolahan | Deskripsi metode pengolahan data yang digunakan |
-| Arsitektur Model | Deskripsi arsitektur model yang diguanakan |
-| Metrik Evaluasi | Deksripsi metrik yang digunakan untuk mengevaluasi performa model |
-| Performa Model | Deksripsi performa model yang dibuat |
-| Opsi Deployment | Deksripsi tentang opsi deployment |
-| Web App | Tautan web app yang digunakan untuk mengakses model serving. Contoh: [nama-model](https://model-resiko-kredit.herokuapp.com/v1/models/model-resiko-kredit/metadata) |
-| Monitoring | Deksripsi terkait hasil monitoring dari model serving |
+| Dataset | [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) |
+| Masalah | Metode pengolahan data yang digunakan pada proyek ini adalah dengan menghapus atau drop beberapa fitur atau kolom yang tidak dibutuhkan, melakukan tahap Data Ingestion dengan membagi dataset menjadi data training dan data evaluation dengan rasio 9:1. Kemudian melakukan tahap Data Validation dengan cara melihat statistik data, data schema, serta mengidentifikasi anomali pada dataset. Setelah itu melakukan tahap Data Preprocessing dengan melakukan transformasi fitur input pada data. |
+| Solusi Machine Learning |  |
+| Metode Pengolahan |  |
+| Arsitektur Model |  |
+| Metrik Evaluasi |  |
+| Performa Model |  |
+| Opsi Deployment |  |
+| Web App |  |
+| Monitoring |  |
 
 ## Referensi:
 
