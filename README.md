@@ -20,6 +20,6 @@ Username Dicoding: [andrewbj](https://www.dicoding.com/users/andrewbj)
 
 ## Referensi:
 
-[1] Badan Pusat Statistik, "Banyaknya Desa/Kelurahan Menurut Jenis Bencana Alam dalam Tiga Tahun Terakhir (Desa), 2021", *Badan Pusat Statistik*, 2021, Diambil dari: https://www.bps.go.id/indicator/168/954/1/banyaknya-desa-kelurahan-menurut-jenis-bencana-alam-dalam-tiga-tahun-terakhir.html.
+[1] Rokom, "Tingkatan Kualitas dan Layanan Stroke Lewat Transformasi Kesehatan", *Sehat Negeriku*, 2022, Diambil dari: https://sehatnegeriku.kemkes.go.id/baca/rilis-media/20221011/4641254/tingkatan-kualitas-dan-layanan-stroke-lewat-transformasi-kesehatan.
 
-[2] C. M. Annur, "3,59 Juta Orang Terdampak Bencana Alam di Indonesia, Ini Rinciannya", *Katadata.co.id*, 2022, Diambil dari: https://databoks.katadata.co.id/datapublish/2022/10/19/359-juta-orang-terdampak-bencana-alam-di-indonesia-ini-rinciannya.
+[2] P2PTM Kemenkes RI, "Hari Stroke Sedunia 2019 : Otak Sehat, SDM Unggul", *Direktorat P2PTM*, 2019, Diambil dari: https://p2ptm.kemkes.go.id/tag/hari-stroke-sedunia-2019-otak-sehat-sdm-unggul.
