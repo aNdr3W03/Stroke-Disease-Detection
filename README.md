@@ -7,7 +7,7 @@ Username Dicoding: [andrewbj](https://www.dicoding.com/users/andrewbj)
 |     | Deskripsi |
 | --- | --------- |
 | Dataset | [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) |
-| Masalah | Metode pengolahan data yang digunakan pada proyek ini adalah dengan menghapus atau drop beberapa fitur atau kolom yang tidak dibutuhkan, melakukan tahap Data Ingestion dengan membagi dataset menjadi data training dan data evaluation dengan rasio 9:1. Kemudian melakukan tahap Data Validation dengan cara melihat statistik data, data schema, serta mengidentifikasi anomali pada dataset. Setelah itu melakukan tahap Data Preprocessing dengan melakukan transformasi fitur input pada data. |
+| Masalah | Berdasarkan latar belakang di atas, dapat kita ketahui bahwa penyakit stroke adalah masalah kesehatan yang cukup serius, terutama bagi orang yang sudah cukup berumur, memiliki beberapa penyakit penyebab stroke, dan yang paling umum adalah karena memiliki kebiasaan merokok. Meskipun stroke pada umumnya terjadi pada orang yang sudah berumur, namun tidak menutup kemungkinan pula dapat terjadi di usia dewasa menengah atau usia produktif. |
 | Solusi Machine Learning |  |
 | Metode Pengolahan |  |
 | Arsitektur Model |  |
