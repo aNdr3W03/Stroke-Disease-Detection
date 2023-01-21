@@ -12,7 +12,7 @@ Username Dicoding: [andrewbj](https://www.dicoding.com/users/andrewbj)
 | Metode Pengolahan Data | Metode pengolahan data yang digunakan pada proyek ini adalah dengan menghapus atau *drop* beberapa fitur atau kolom yang tidak dibutuhkan, melakukan tahap *Data Ingestion* dengan membagi *dataset* menjadi *data training* dan *data evaluation* dengan rasio 8:2. Kemudian melakukan tahap *Data Validation* dengan cara melihat statistik data, *data schema*. Setelah itu melakukan tahap *Data Preprocessing* dengan melakukan transformasi fitur input pada data. |
 | Arsitektur Model | Arsitektur model yang dibangun menggunakan sebuah *input layer* yang menerima data kategorikal dan numerik yang telah diproses terlebih dahulu. Kemudian terdapat dua buah *hidden layer* (Dense layer) dan sebuah Dropout layer serta sebuah *output layer*. |
 | Metrik Evaluasi | Metrik yang digunakan untuk mengevaluasi performa model *machine learning* adalah AUC (*Area Under the ROC Curve*), Precision, Recall, TFMA Example Count, True Positive, True Negatives, False Positive, False Negatives, dan Binary Accuracy. |
-| Performa Model |  |
+| Performa Model | Performa model yang telah dibuat termasuk ke dalam kategori yang cukup baik dan ideal dengan tingkat `binary_accuracy` sebesar 96% dan `val_binary_accuracy` sebesar 95%. Sedangkan untuk nilai `loss` sebesar 0.1510 dan `val_loss` sebesar 0.1580. |
 | Opsi Deployment |  |
 | Web App |  |
 | Monitoring |  |
