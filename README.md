@@ -10,7 +10,7 @@ Username Dicoding: [andrewbj](https://www.dicoding.com/users/andrewbj)
 | Masalah | Berdasarkan latar belakang di atas, dapat kita ketahui bahwa penyakit stroke adalah masalah kesehatan yang cukup serius, terutama bagi orang yang sudah cukup berumur, memiliki beberapa penyakit penyebab stroke, dan yang paling umum adalah karena memiliki kebiasaan merokok. Meskipun stroke pada umumnya terjadi pada orang yang sudah berumur, namun tidak menutup kemungkinan pula dapat terjadi di usia dewasa menengah atau usia produktif. |
 | Solusi Machine Learning | Oleh karena itu, akan lebih baik apabila dilakukan pengecekan secara berkala sebagai tindakan preventif lebih dini terhadap penyakit stroke dengan menggunakan sistem *machine learning* untuk mengetahui kemungkinan risiko terkena penyakit stroke. |
 | Metode Pengolahan Data | Metode pengolahan data yang digunakan pada proyek ini adalah dengan menghapus atau *drop* beberapa fitur atau kolom yang tidak dibutuhkan, melakukan tahap *Data Ingestion* dengan membagi *dataset* menjadi *data training* dan *data evaluation* dengan rasio 8:2. Kemudian melakukan tahap *Data Validation* dengan cara melihat statistik data, *data schema*. Setelah itu melakukan tahap *Data Preprocessing* dengan melakukan transformasi fitur input pada data. |
-| Arsitektur Model |  |
+| Arsitektur Model | Arsitektur model yang dibangun menggunakan sebuah *input layer* yang menerima data kategorikal dan numerik yang telah diproses terlebih dahulu. Kemudian terdapat dua buah *hidden layer* (Dense layer) dan sebuah Dropout layer serta sebuah *output layer*. |
 | Metrik Evaluasi |  |
 | Performa Model |  |
 | Opsi Deployment |  |
