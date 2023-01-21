@@ -14,8 +14,9 @@ Username Dicoding: [andrewbj](https://www.dicoding.com/users/andrewbj)
 | Metrik Evaluasi | Metrik yang digunakan untuk mengevaluasi performa model *machine learning* adalah AUC (*Area Under the ROC Curve*), Precision, Recall, TFMA Example Count, True Positive, True Negatives, False Positive, False Negatives, dan Binary Accuracy. |
 | Performa Model | Performa model yang telah dibuat termasuk ke dalam kategori yang cukup baik dan ideal dengan tingkat `binary_accuracy` sebesar 96% dan `val_binary_accuracy` sebesar 95%. Sedangkan untuk nilai `loss` sebesar 0.1510 dan `val_loss` sebesar 0.1580. |
 | Opsi Deployment | Proyek *machine learning* Stroke Disease Detection ini telah di-*deploy* menggunakan [Railway App](https://railway.app) sebagai salah satu Platform as a Service (PaaS) yang menyediakan layanan untuk deploying proyek secara gratis. |
-| Web App |  |
+| Web App | Model serving dapat diakses melalui [https://stroke-detection.up.railway.app/v1/models/stroke-detection-model/metadata](https://stroke-detection.up.railway.app/v1/models/stroke-detection-model/metadata). |
 | Monitoring |  |
+| Kesimpulan |  |
 
 ## Referensi:
 
