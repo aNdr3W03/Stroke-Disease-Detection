@@ -8,7 +8,7 @@ Username Dicoding: [andrewbj](https://www.dicoding.com/users/andrewbj)
 | --- | --------- |
 | Dataset | [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) |
 | Masalah | Berdasarkan latar belakang di atas, dapat kita ketahui bahwa penyakit stroke adalah masalah kesehatan yang cukup serius, terutama bagi orang yang sudah cukup berumur, memiliki beberapa penyakit penyebab stroke, dan yang paling umum adalah karena memiliki kebiasaan merokok. Meskipun stroke pada umumnya terjadi pada orang yang sudah berumur, namun tidak menutup kemungkinan pula dapat terjadi di usia dewasa menengah atau usia produktif. |
-| Solusi Machine Learning |  |
+| Solusi Machine Learning | Oleh karena itu, akan lebih baik apabila dilakukan pengecekan secara berkala sebagai tindakan preventif lebih dini terhadap penyakit stroke dengan menggunakan sistem *machine learning* untuk mengetahui kemungkinan risiko terkena penyakit stroke. |
 | Metode Pengolahan |  |
 | Arsitektur Model |  |
 | Metrik Evaluasi |  |
