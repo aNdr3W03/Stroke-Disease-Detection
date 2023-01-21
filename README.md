@@ -15,7 +15,7 @@ Username Dicoding: [andrewbj](https://www.dicoding.com/users/andrewbj)
 | Performa Model | Performa model yang telah dibuat termasuk ke dalam kategori yang cukup baik dan ideal dengan tingkat `binary_accuracy` sebesar 96% dan `val_binary_accuracy` sebesar 95%. Sedangkan untuk nilai `loss` sebesar 0.1510 dan `val_loss` sebesar 0.1580. |
 | Opsi Deployment | Proyek *machine learning* Stroke Disease Detection ini telah di-*deploy* menggunakan [Railway App](https://railway.app) sebagai salah satu Platform as a Service (PaaS) yang menyediakan layanan untuk deploying proyek secara gratis. |
 | Web App | Model serving dapat diakses melalui [https://stroke-detection.up.railway.app/v1/models/stroke-detection-model/metadata](https://stroke-detection.up.railway.app/v1/models/stroke-detection-model/metadata). |
-| Monitoring |  |
+| Monitoring | Proses *monitoring* pada proyek *machine learning* ini dapat dilakukan menggunakan layanan *open-source*, yaitu [Prometheus](https://prometheus.io). Salah satu proses *monitoring* Prometheus adalah melihat perubahan jumlah permintaan yang dilakukan dengan cara menampilkan status dan informasi *request* beserta jamnya (`:tensorflow:serving:request_count`). |
 | Kesimpulan |  |
 
 ## Referensi:
